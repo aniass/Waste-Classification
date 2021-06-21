@@ -15,7 +15,7 @@ The aim of the project is waste classification by using Deep Neural Networks. Th
 * Waste classification with CNN model - **Waste_cnn.ipynb**
 * Waste Classification with data augmentation - **Waste_Augumentation.ipynb**
  
-## Technologies
+### Technologies
 
 The project is created with:
 * Python 3.6
