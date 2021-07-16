@@ -1,7 +1,7 @@
 # Waste Classification
 
 ## General info
-The project concerns waste classification with Convolutional Neural Networks (CNN) algorithms to determine if it may be recycle or not. The analysis has been made in two approaches: the first includes data preparation and build model CNN to waste recognise and the second one includes CNN model with data augumentation to achieve the better results
+The project concerns waste classification with Convolutional Neural Networks (CNN) algorithms to determine if it may be recycle or not. The analysis has been made in two approaches: the first includes data preparation and build model CNN to waste recognise and the second one includes CNN model with data augumentation to achieve the better results.
 
 The dataset comes from Kaggle and can be find [here](https://www.kaggle.com/techsash/waste-classification-data).
 
@@ -18,8 +18,8 @@ The aim of the project is waste classification by using Deep Neural Networks. Th
 ### Technologies
 
 The project is created with:
-* Python 3.6
-* libraries: TensorFlow, Keras, Numpy.
+* Python 3.8
+* libraries: TensorFlow, keras, numpy, pandas, seaborn.
 
 **Running the project:**
 
