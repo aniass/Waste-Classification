@@ -8,9 +8,8 @@ The project contains waste classification with Convolutional Neural Networks (CN
 ### Dataset
 The dataset contains the 22500 images of organic and recyclable objects. It comes from Kaggle and can be find [here](https://www.kaggle.com/techsash/waste-classification-data).
 
-
-## Motivation
-The aim of the project is waste classification by using Deep Neural Networks. The dataset contains waste images recyclable and organic ones. We have build model to predict if the waste may be recyclable or not. In our analysis we used Convolutional Neural Network (CNN) model with data augumentation and transfer learning  to get more accurate predictions and choose the best one for our purpose.
+## Summary
+The aim of the project was waste classification by using Deep Neural Networks. The dataset contains waste images recyclable and organic ones. I have built model to predict if the waste may be recyclable or not. In the analysis I have used Convolutional Neural Network (CNN) model with data augumentation and transfer learning to get more accurate predictions and choose the best one for that.
 
 ## Project includes:
 
